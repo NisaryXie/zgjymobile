@@ -1,5 +1,18 @@
 {
+    "future": "即将到来的",
     "inprogress": "处理中",
+    "morecourses": "更多课程",
     "nocourses": "没有可显示的课程信息。",
-    "pluginname": "容器插件名"
+    "nocoursesinprogress": "没有正在进行的课程",
+    "nocoursesfuture": "没有即将开始的课程",
+    "nocoursespast": "没有完成的课程",
+    "noevents": "没有即将开始的活动",
+    "next30days": "30天后",
+    "next7days": "7天后",
+    "past": "过去",
+    "pluginname": "课程概览",
+    "recentlyoverdue": "马上开始的活动",
+    "sortbycourses": "按课程排序",
+    "sortbydates": "按时间排序",
+    "timeline": "时间抽"
 }
