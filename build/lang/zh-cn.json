@@ -505,7 +505,7 @@
     "mm.settings.general": "常规项",
     "mm.settings.language": "语言",
     "mm.settings.license": "许可证",
-    "mm.settings.localnotifavailable": "可用本地通知",
+    "mm.settings.localnotifavailable": "允许本地通知",
     "mm.settings.locationhref": "Webview网址",
     "mm.settings.loggedin": "在线",
     "mm.settings.loggedoff": "离线",
