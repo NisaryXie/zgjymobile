@@ -1111,7 +1111,10 @@
     "mma.notes.personalnotes": "私人备注",
     "mma.notes.publishstate": "上下文",
     "mma.notes.sitenotes": "全站备注",
+    "mma.notifications.errorgetnotifications": "获取通知时出错",
+    "mma.notifications.notificationpreferences": "通知偏好",
     "mma.notifications.notifications": "通知",
+    "mma.notifications.playsound": "播放声音",
     "mma.notifications.therearentnotificationsyet": "没有通知",
     "mma.participants.noparticipants": "未找到此项课程的参与者",
     "mma.participants.participants": "课程参与者"
